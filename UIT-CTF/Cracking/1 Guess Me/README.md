@@ -2,7 +2,7 @@
 
 Guess a number and get the correct flag .
 
-<a href="Guess Me.exe">Down the file here</a>
+<a href="Guess Me.exe?raw=true">Down the file here</a>
 
 and just open it!
 type numbers <br />So you can see bad boy message box!
