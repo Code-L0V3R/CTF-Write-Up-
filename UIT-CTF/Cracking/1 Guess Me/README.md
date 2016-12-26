@@ -52,7 +52,7 @@ Virutal address 00401588 မွာ right click တစ္ခ်က္နိုပ
 <img src="patched.png" /><br/>
 ျပီးရင္ ေတာ့ F9 နိုပ္ျပီး program ကို run လိုက္ပါ။<br/>
 ျကိုက္တဲ့ numbers ကို နိုပ္ျပီး Enter နိုပ္လိုက္ပါ။ <br/>
-<a href="1 Guess Me/flag.txt">Flag </a> ရလာပါလိမ့္မယ္ :D <br/><br/>
+<a href="flag.txt">Flag </a> ရလာပါလိမ့္မယ္ :D <br/><br/>
 <img src="flag.png" />
 <br/><br/>
 # easy right?
